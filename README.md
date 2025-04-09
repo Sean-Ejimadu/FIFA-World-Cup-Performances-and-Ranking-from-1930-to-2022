@@ -20,12 +20,21 @@
 
 *When it comes to home teams, it was seen that manager "Helmut Schoen" have the most impact on the match outcome and manager "Joachim Low" have the most impact on the match outcome for away teams.*
 
-*To analyze how each fifa ranked team ranking and points have changed over time.*
+**5. To analyze how each fifa ranked team ranking and points have changed over time:**
 
-*To investigate how teams from different associations are performing in terms of average points and rankings.*
+*When it comes to teams that had a change in point positively, "Azerbaijan" stands out with "19.55" increase in points and North Macedonia had a decrease in points of about "-16.69" making them Top team with a negative change*
 
-*To analyze the attendance number across different world cup years to see if there's a trend in spectator interest.*
+*Scotland and Azerbaijan both had a change in rank by "5", Norway had a decrease in rank by "-6".*
 
-*To determine the top scorer all in a single World Cup and if there's a pattern in the number of goals scored in each world cup.*
+**6. To investigate how teams from different associations are performing in terms of average points and rankings:**
 
+*Iran, Senegal, Mexico, Brazil, New Zeland and Belgium Topped the chart in both average point and ranking in their respective association.*
+
+**7. To analyze the attendance number across different world cup years to see if there's a trend in spectator interest.**
+
+*There was fluctuation over the years which reflect varying level of spectator interest in each world cup. Despite the fluctuation in specific years, the attendance generally shows an upward trend.*
+
+**8. To determine the all time Top scorer in a single world cup and if there's a pattern in the number of goals scored in each world cup.**
+
+*There appeared not to be a simple, linear pattern (increase or decrease over time). When it comes to the Top scorer all in a single world cup "Just Fontaine" takes the lead with 13 goals.*
  
